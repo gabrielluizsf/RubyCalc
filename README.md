@@ -1,3 +1,5 @@
+<div align="center">
+ 
 #  Getting Starded 🖖🏻
 
 [![Author](https://img.shields.io/badge/author-GabrielLuiz-191F2B?style=flat-square)](https://github.com/GabrielLuizSF)
@@ -7,7 +9,8 @@
 
 
 ## How to run file ?
-- Open the terminal and use the command 
+º Open the terminal and use the command 
  ```sh
 ruby calculator.rb
 ```
+</div>
